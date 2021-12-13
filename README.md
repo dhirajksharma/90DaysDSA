@@ -12,3 +12,5 @@ Day 5: Practiced questions on rotation of array, and 2 pointer approach
 
 Day 6: Practiced questions on rearrangement of array elements, studied Kadane's algorithm and Moore's Voting algorithm.
 
+Day 7: Practiced questions on order statistics in array.
+
