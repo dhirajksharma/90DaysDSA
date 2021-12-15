@@ -15,3 +15,5 @@ Day 6: Practiced questions on rearrangement of array elements, studied Kadane's 
 Day 7: Practiced questions on order statistics in array.
 
 Day 8: Practiced questions on 2d matrices.
+
+Day 9: Studied how to create stacks and linear queues using static and dynamic arrays, and linear linked list using structures in C and practiced functions for basic operations for them.
