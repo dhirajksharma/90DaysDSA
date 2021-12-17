@@ -20,3 +20,5 @@ Day 9: Studied how to create stacks and linear queues using static and dynamic a
 
 Day 10: Studied how to create circular queue, circular linkedlist and double pointer linkedlist.
 
+Day 11: Converted Infix expression to prefix and postfix using stack, and solved polynomial addition and multiplication using linkedlist.
+
