@@ -22,3 +22,4 @@ Day 10: Studied how to create circular queue, circular linkedlist and double poi
 
 Day 11: Converted Infix expression to prefix and postfix using stack, and solved polynomial addition and multiplication using linkedlist.
 
+Day 12: Studied double ended queue, and how to make queue using linked list.
