@@ -25,3 +25,6 @@ Day 11: Converted Infix expression to prefix and postfix using stack, and solved
 Day 12: Studied double ended queue, and how to make queue using linked list.
 
 Day 13: Practiced problems involving the use of stacks.
+
+Day 14: Revised previous problems and made notes for them.
+
