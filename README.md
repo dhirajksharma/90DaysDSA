@@ -28,3 +28,5 @@ Day 13: Practiced problems involving the use of stacks.
 
 Day 14: Revised previous problems and made notes for them.
 
+Day 15: Practiced problems involving stack.
+
