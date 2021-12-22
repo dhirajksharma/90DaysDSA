@@ -30,3 +30,4 @@ Day 14: Revised previous problems and made notes for them.
 
 Day 15: Practiced problems involving stack.
 
+Day 16: Practiced problems using single linkedlist.
