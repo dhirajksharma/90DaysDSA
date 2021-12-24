@@ -34,3 +34,5 @@ Day 16: Practiced problems using single linkedlist.
 
 Day 17: Revised stacks, queues, and linkedlists.
 
+Day 18: Studied priority queue and how to make them using arrays or linkedlists.
+
