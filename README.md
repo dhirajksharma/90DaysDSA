@@ -36,5 +36,5 @@ Day 17: Revised stacks, queues, and linkedlists.
 
 Day 18: Studied priority queue and how to make them using arrays or linkedlists.
 
-Day 19: Practiced questions on linear linkedlists. 
+Day 19: Practiced questions on single linkedlists and circular linkedlists. 
 
