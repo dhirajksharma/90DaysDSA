@@ -38,3 +38,5 @@ Day 18: Studied priority queue and how to make them using arrays or linkedlists.
 
 Day 19: Practiced questions on single linkedlists and circular linkedlists. 
 
+Day 20: Practiced questions on doubly linkedlists.
+
