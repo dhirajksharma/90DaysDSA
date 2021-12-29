@@ -42,3 +42,7 @@ Day 20: Practiced questions on doubly linkedlists.
 
 Day 21: Studied about skip lists and its operations.
 
+Day 22: Practiced questions on stack implementation.
+
+Day 23: Practiced questions on application of stacks.
+
