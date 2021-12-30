@@ -46,3 +46,5 @@ Day 22: Practiced questions on stack implementation.
 
 Day 23: Practiced questions on application of stacks.
 
+Day 24: Studied evaluation of expressions using stack and practiced a few questions.
+
