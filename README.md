@@ -48,3 +48,4 @@ Day 23: Practiced questions on application of stacks.
 
 Day 24: Studied evaluation of expressions using stack and practiced a few questions.
 
+Day 25: Practiced questions on queues.
