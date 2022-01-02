@@ -51,5 +51,5 @@ Day 24: Studied evaluation of expressions using stack and practiced a few questi
 Day 25: Practiced questions on queues.
 ______
 
-Day 26: Studied bubble, selection, quick and merge sorting algorithms.
+Day 26: Studied bubble, insertion, selection, quick and merge sorting algorithms.
 
