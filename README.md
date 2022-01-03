@@ -53,3 +53,5 @@ ______
 
 Day 26: Studied bubble, insertion, selection, quick and merge sorting algorithms.
 
+Day 27: Practiced comparison based sorting techniques done previously and studied some index based sorting techniques.
+
