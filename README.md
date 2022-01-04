@@ -55,3 +55,5 @@ Day 26: Studied bubble, insertion, selection, quick and merge sorting algorithms
 
 Day 27: Practiced comparison based sorting techniques done previously and studied some index based sorting techniques.
 
+Day 28: Studied binary trees, binary search trees and basic operations on them. 
+
