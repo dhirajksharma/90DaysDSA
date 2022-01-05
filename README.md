@@ -57,3 +57,5 @@ Day 27: Practiced comparison based sorting techniques done previously and studie
 
 Day 28: Studied binary trees, binary search trees and basic operations on them. 
 
+Day 29: Studied some more operations on binary trees and participated in codechef's starters contest for January.
+
