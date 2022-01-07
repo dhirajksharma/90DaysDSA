@@ -59,3 +59,5 @@ Day 28: Studied binary trees, binary search trees and basic operations on them.
 
 Day 29: Studied some more operations on binary trees and participated in codechef's starters contest for January.
 
+Day 30: Studied what are avl trees, how to create them and creating expression tree for an infix expression.
+
