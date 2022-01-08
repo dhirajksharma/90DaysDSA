@@ -61,3 +61,7 @@ Day 29: Studied some more operations on binary trees and participated in codeche
 
 Day 30: Studied what are avl trees, how to create them and creating expression tree for an infix expression.
 
+Day 31: Revised binary search trees and avl trees.
+
+Day 32: Practiced questions on binary search trees.
+
