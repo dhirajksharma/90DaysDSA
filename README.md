@@ -65,3 +65,7 @@ Day 31: Revised binary search trees and avl trees.
 
 Day 32: Practiced questions on binary search trees.
 
+Day 33: Studied heaps, how to make them, and modify them and heap sort.
+
+Day 34: Revised heaps and practiced questions on them.
+
