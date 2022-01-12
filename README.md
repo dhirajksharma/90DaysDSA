@@ -69,3 +69,7 @@ Day 33: Studied heaps, how to make them, and modify them and heap sort.
 
 Day 34: Revised heaps and practiced questions on them.
 
+Day 35: Studied radix sort, shell sort, and hashing.
+
+Day 36: Studied collision avoidance in hashing by chaining, linear probing and quadratic probing. Participated in a coding competition organized by DPS on codechef.
+
