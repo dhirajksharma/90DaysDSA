@@ -73,7 +73,7 @@ Day 35: Studied radix sort, shell sort, and hashing.
 
 Day 36: Studied collision avoidance in hashing by chaining, linear probing and quadratic probing. Participated in a coding competition organized by DPS on codechef.
 
-Day 37: Revised heaps and trees.
+Day 37: Revised heaps, trees and sorting algorithms.
 
 Day 38: Revised stack, queues and linkedlists.
 
