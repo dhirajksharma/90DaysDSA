@@ -77,3 +77,7 @@ Day 37: Revised heaps, trees and sorting algorithms.
 
 Day 38: Revised stack, queues and linkedlists.
 
+Day 39: Studied 2-3 trees, B trees and B+ trees.
+
+Day 40: Studied Red-Black trees.
+
