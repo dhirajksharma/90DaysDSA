@@ -81,3 +81,7 @@ Day 39: Studied 2-3 trees, B trees and B+ trees.
 
 Day 40: Studied Red-Black trees.
 
+Day 41: Practiced problems on binary tree traversals.
+
+Day 42: Practiced problems on binary tree construction.
+
