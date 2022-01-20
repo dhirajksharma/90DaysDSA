@@ -85,3 +85,5 @@ Day 41: Practiced problems on binary tree traversals.
 
 Day 42: Practiced problems on binary tree construction.
 
+Day 43: Practiced some more problems on binary tree and participated in codechef's starters contest.
+
