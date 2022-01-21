@@ -89,3 +89,5 @@ Day 43: Practiced some more problems on binary tree and participated in codechef
 
 Day 44: Practiced problems on binary search trees. 
 
+Day 45: Revised heaps and hashing.
+
