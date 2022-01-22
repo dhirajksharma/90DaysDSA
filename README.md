@@ -8,6 +8,7 @@ Day 3: Practiced creating recursive functions for problems involving strings
 
 Day 4: Practiced recursive functions for array problems.
 _____
+
 Day 5: Practiced questions on rotation of array, and 2 pointer approach
 
 Day 6: Practiced questions on rearrangement of array elements, studied Kadane's algorithm and Moore's Voting algorithm.
@@ -90,4 +91,7 @@ Day 43: Practiced some more problems on binary tree and participated in codechef
 Day 44: Practiced problems on binary search trees. 
 
 Day 45: Revised heaps and hashing.
+______
+
+Day 46: Studied about graphs, their types, and adjacency and weight matrices.
 
