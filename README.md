@@ -95,3 +95,5 @@ ______
 
 Day 46: Studied about graphs, their types, and adjacency and weight matrices.
 
+Day 47: Studied Kruskal's algorithm and Prim's algorithm. Participated in codechef's january cookoff challenge.
+
