@@ -99,3 +99,5 @@ Day 47: Studied Kruskal's algorithm and Prim's algorithm. Participated in codech
 
 Day 48: Studied how to code Kruskal's algorithm and Prim's algorithm and depth first and breadth first traversals.
 
+Day 49: Practiced some graph operations, studied Dijkstra's algorithm.
+
