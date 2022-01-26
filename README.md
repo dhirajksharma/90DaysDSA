@@ -101,5 +101,5 @@ Day 48: Studied how to code Kruskal's algorithm and Prim's algorithm and depth f
 
 Day 49: Practiced some graph operations, studied Dijkstra's algorithm.
 
-Day 50: Studied Floyd's algorithm, Bellman Ford algorithm and Warshall's transitive closure of a graph. 
+Day 50: Studied Floyd's algorithm, Bellman Ford algorithm and Warshall's transitive closure of a graph, participated in codechef's weekly starters contest. 
 
