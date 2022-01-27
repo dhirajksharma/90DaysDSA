@@ -103,3 +103,5 @@ Day 49: Practiced some graph operations, studied Dijkstra's algorithm.
 
 Day 50: Studied Floyd's algorithm, Bellman Ford algorithm and Warshall's transitive closure of a graph, participated in codechef's weekly starters contest. 
 
+Day 51: Studied the sliding window technique and practiced some problems on it.
+
