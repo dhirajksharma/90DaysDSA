@@ -107,3 +107,5 @@ Day 51: Studied the sliding window technique and practiced some problems on it.
 
 Day 52: Practiced problems on Recursion. 
 
+Day 53: Practiced problems on strings, participated in codechef's january lunchtime contest. 
+
