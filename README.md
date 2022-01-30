@@ -109,3 +109,5 @@ Day 52: Practiced problems on Recursion.
 
 Day 53: Practiced problems on strings, participated in codechef's january lunchtime contest. 
 
+Day 54: Revised graph algorithms and made notes for them and strings.
+
