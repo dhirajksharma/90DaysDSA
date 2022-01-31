@@ -111,3 +111,5 @@ Day 53: Practiced problems on strings, participated in codechef's january luncht
 
 Day 54: Revised graph algorithms and made notes for them and strings.
 
+Day 55: Studied backtracking with n queen problem.
+
