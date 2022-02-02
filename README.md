@@ -113,3 +113,7 @@ Day 54: Revised graph algorithms and made notes for them and strings.
 
 Day 55: Studied backtracking with n queen problem.
 
+Day 56: Revised 2-3 trees and 2-3-4 trees.
+
+Day 57: Revised red black trees.
+
