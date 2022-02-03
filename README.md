@@ -117,3 +117,5 @@ Day 56: Revised 2-3 trees and 2-3-4 trees.
 
 Day 57: Revised red black trees.
 
+Day 58: Practiced problems on backtracking.
+
