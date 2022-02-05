@@ -121,3 +121,5 @@ Day 58: Practiced problems on backtracking.
 
 Day 59: Practiced problems on backtracking and recursion, and revised complexity analysis.
 
+Day 60: Practiced problems on sliding window technique.
+
