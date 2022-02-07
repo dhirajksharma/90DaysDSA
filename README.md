@@ -123,3 +123,7 @@ Day 59: Practiced problems on backtracking and recursion, and revised complexity
 
 Day 60: Practiced problems on sliding window technique.
 
+Day 61: Practiced problems on variable size sliding window.
+
+Day 62: Made notes for backtracking and sliding window, started with dynamic programming.
+
