@@ -129,5 +129,5 @@ Day 62: Made notes for backtracking and sliding window, started with dynamic pro
 
 Day 63: Studied knapsack problem, subset sum problem using memoization and tabular methods. 
 
-Day 64: Studied subset sum problem, Practiced knapsack related problems. Participated in codechef's starters 25
+Day 64: Studied sum partition problem, Practiced knapsack related problems. Participated in codechef's starters 25
 
