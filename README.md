@@ -131,3 +131,7 @@ Day 63: Studied knapsack problem, subset sum problem using memoization and tabul
 
 Day 64: Studied sum partition problem, Practiced knapsack related problems. Participated in codechef's starters 25
 
+Day 65: Practiced previous knapsack problems. 
+
+Day 66: Practiced more knapsack based problems. 
+
