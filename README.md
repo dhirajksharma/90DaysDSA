@@ -135,3 +135,9 @@ Day 65: Practiced previous knapsack problems.
 
 Day 66: Practiced more knapsack based problems. 
 
+Day 67: Practiced problems on unbounded knapsack, using memoization and tabulation. 
+
+Day 68: Studied longest common substring problem, using memoization and tabulation, and practiced some lcs based problems. 
+
+Day 69: Practiced more substring and subsequence based problems.
+
