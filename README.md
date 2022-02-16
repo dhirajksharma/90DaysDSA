@@ -141,3 +141,7 @@ Day 68: Studied longest common substring problem, using memoization and tabulati
 
 Day 69: Practiced more substring and subsequence based problems.
 
+Day 70: Practiced palindromic strings based problems.
+
+Day 71: Studied dp on trees and practiced questions on it.
+
