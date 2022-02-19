@@ -145,3 +145,9 @@ Day 70: Practiced palindromic strings based problems.
 
 Day 71: Studied dp on trees and practiced questions on it.
 
+Day 72: Revised previous dp problems on strings.
+
+Day 73: Practiced dp problems on matrices.
+
+Day 74: Practiced previous dp problems on trees and solved some new ones.
+
