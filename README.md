@@ -151,3 +151,7 @@ Day 73: Practiced dp problems on matrices chain multiplication.
 
 Day 74: Practiced previous dp problems on trees and solved some new ones.
 
+Day 75: Revised sorting algorithms and complexity analysis of functions. 
+
+Day 76: Revised heaps and practiced problems on them.
+
