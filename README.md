@@ -155,3 +155,10 @@ Day 75: Revised sorting algorithms and complexity analysis of functions.
 
 Day 76: Revised heaps and practiced problems on them.
 
+Day 77: Revised Recurrence relations and Master's theorem and practiced problems on it.
+______
+
+Day 78: Started with OOPs, studied constructors, destructors.
+
+Day 79: Studied polymorphism, inheritance and abstraction. 
+
