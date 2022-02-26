@@ -162,3 +162,7 @@ Day 78: Started with OOPs, studied constructors, destructors.
 
 Day 79: Studied polymorphism, inheritance and abstraction. 
 
+Day 80: Studied about constructors, and destructors and made notes for OOPs.
+
+Day 81: Started with Number Theory for programming. 
+
