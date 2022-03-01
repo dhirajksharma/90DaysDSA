@@ -166,3 +166,9 @@ Day 80: Studied about constructors, and destructors and made notes for OOPs.
 
 Day 81: Started with Number Theory for programming. 
 
+Day 82: Studied more mathematical concepts and practiced some problems. 
+
+Day 83: Studied about bit manipulation and practiced problems on it.
+
+Day 84: Practiced problems on bit manipulation, participated in codechef's march lunchtime.
+
