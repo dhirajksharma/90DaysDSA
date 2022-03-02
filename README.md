@@ -172,3 +172,5 @@ Day 83: Studied about bit manipulation and practiced problems on it.
 
 Day 84: Practiced problems on bit manipulation, participated in codechef's march lunchtime.
 
+Day 85: Practiced problems on sliding window, participated in codechef's starters 28.
+
