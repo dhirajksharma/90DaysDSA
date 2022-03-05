@@ -174,3 +174,9 @@ Day 84: Practiced problems on bit manipulation, participated in codechef's march
 
 Day 85: Practiced problems on sliding window, participated in codechef's starters 28.
 
+Day 86: Revised hashmaps and practiced problems on linkedlists. 
+
+Day 87: Practiced problems on binary trees.
+
+Day 88: Studied tries and it's implementation in cpp.
+
