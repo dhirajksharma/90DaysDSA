@@ -180,3 +180,6 @@ Day 87: Practiced problems on binary trees.
 
 Day 88: Studied tries and it's implementation in cpp.
 
+Day 89: Studied problems on tries based on strings.
+
+Day 90: Studied problems on tries based on bitwise xor and made notes for tries.
